@@ -1,0 +1,10 @@
+main()
+{
+   printf "hello word" 
+}
+
+
+sadasdasd
+
+
+hahaha 
